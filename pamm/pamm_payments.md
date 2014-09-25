@@ -3,7 +3,7 @@
 
 Processing of payments in PAMM happens with a combination of files and methods. The basis of the the payment page comes from the `/View/Themed/Bootstrap3/Pamm/payment.ctp` file, but the majority of the action takes place in the _Backbone.js_ files located in `/webroot/scripts/backbone/view/user.balanced.js` and a few others.
 
-### Milestone Payments ###  
+### Milestone Payments ###   
 
 When a client is ready to make a payment, they will proceed to the specific payment page for that PAMM (e.g. `/pamm/payment/{opportunity-slug}#pay-{milestone id}`). THe client will toggle the first column (toggling the class `pay-row`) for each and every payment they wish to process. 
 
