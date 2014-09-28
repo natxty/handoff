@@ -4,7 +4,7 @@
 
 ### General Contents ###
 
-* [General Overview and Notes](/general_overview.md)
+* [General Overview and Notes](general_overview.md)
 * Servers/Access/Locations
 * Code and Deployments
     * Version Control
