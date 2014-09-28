@@ -36,7 +36,7 @@ An inidividual Talent can pick up to 3 **Disciplines** (Design, Video/Photo, PR/
 
 There are a number of regex patterns also stored in the _skills_ database table - as "bad words". A match with one of these regex will produce a "Bad Word!" alert. e.g.
 
-```mysql
+```bash
 +----+------------------------+----------+------------+
 | id | name                   | bad_word | suggestion |
 +----+------------------------+----------+------------+
