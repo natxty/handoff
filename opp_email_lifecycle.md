@@ -5,7 +5,7 @@
 ## Cron Job
 These are regularly executed via a `cron` job on the `idlrack` server.
 
-{code}
+```
 seneca@idlrack:~$ sudo crontab -l -u www-data
 #MAILTO=nathaniel@theidealists.com
 
@@ -25,7 +25,7 @@ seneca@idlrack:~$ sudo crontab -l -u www-data
 
 #run client at 3:15pm PST
 0 13 * * * export APPLICATION_SERVER="theidealists.com" && /var/www/prod.theidealists.com/public/app/Console/cake email sendClient -app /var/www/prod.theidealists.com/public/app   >> /var/www/prod.theidealists.com/public/app/tmp/logs/client-emails.log 2>> /var/www/prod.theidealists.com/public/app/tmp/logs/client-emails.log &```
-{code}
+```
 
 ## Email Shell and Tasks
 
