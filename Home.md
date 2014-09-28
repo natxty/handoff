@@ -7,7 +7,18 @@
 * General Overview and Notes
 * Servers/Access/Locations
 * Code and Deployments
-* Important Code Components
+    * Version Control
+    * Migrations/Migration Management
+    * Bitbucket/Remote Repo
+    * Branching Scheme
+    * Blog
+    * Deployments & Config
+        * SSH Keys
+        * Fabric / Manual Deployment
+        * Bootstrap Files on Subdomains
+        * AssetCompress & S3
+* Important Code/Concepts
+    * Migrations
     * ACL
     * Password Hashing
     * Assets
@@ -20,6 +31,29 @@
     * Pitching for an Opportunity
     * Talentlists
     * Project Notifications Lifecycle
+    * Users
+        * Applications for Membership
+        * Portfolio Items
+            - `SocialServicesController.php` 
+        * Editing
+    * _more here_
+    * Administration
+        * Views
+            * Dashboard
+            * Opportunities
+                - Overviews/Tables
+                - Single
+            * Users
+                - Overviews
+                - Individual
+            * Search
+                - DB query vs. Solr
+        * Template // datatables // javascript
+    * SHIFT
 * Pipeline Components
     * PAMM (Project Agreements)
     * Matchmaking
+    * Surveys
+* Unused Code
+    * Faq
+    *  
