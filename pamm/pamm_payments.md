@@ -14,3 +14,4 @@ If the client has a payment method or methods from a previous PAMM (which we loo
 ### Submit // Processing ###
 
 The `user.balanced.js` file maps the "Use this method" button/event to the `successModel` function. Basically, this creates an object ,taking each `.pay-row` id and a few other parameters, and passes it to  _tasks_, the processes all the tasks. 
+

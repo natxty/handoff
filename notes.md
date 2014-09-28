@@ -72,9 +72,6 @@ Pitches"
 than 3 days hence, the 3-day alert will not go out. Is this necessary to
 make a onSubmit() check?
 
-* This is a test line to see if I get wrapping after my CLI insertion of
-the above command. 
-
 * clean up process for old/unused/unfinished PAMMs?
 
 * Logging out in Firefox - working/not working?
@@ -91,4 +88,34 @@ a message, or a prevention from double-submitting.
 
 * check on the submitted/approved/deposited timing sequence
 
+* also, in the approval emails, HTML parsing? ("Client -&gt; Award -&gt;
+PAMM -&gt; submit")
+
+* When filling out Payment/Milestones in PAMM :
+    * I can manually enter a past date (waiting on validation...)
+        * Let's it go by ... 
+        * Seems to create an issue -- 
+        * when client looks at Agreement - no Milestones at all!
+        * ..and no budget!
+    * when my on-the-fly sum() is less than 2000 (error msg, good) but
+    when I add a new milestone (that puts the budget > 2000) need to
+    clear the error msg
+
+* still sometimes have issues with activating the "deliverables" section
+with a mouse-click/enter the field...
+
+* Might need to sort out `/admin/pamm` page - what the different 'Client
+Approved' columns mean
+
+---
+
+
+**Attempting to process 2 payments at once: 9/26/2014 :: Star Murray
+(dev+star@theidealists.com).. 9/24 payment + 9/25 payment **
+
+    * sweet ... 9/24 -> PAID; 9/25 -> Pending... interesting...
+
+** Paying an older one: 9/10/2014 to Nkhink Clarkhing: **
+    * note: older attempt still shows PENDING
+    * 9/10 version shows PENDING now (9/26) .. check back?
 
