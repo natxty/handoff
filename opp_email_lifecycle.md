@@ -5,7 +5,7 @@
 ## Cron Job
 These are regularly executed via a `cron` job on the `idlrack` server.
 
-```
+```bash
 seneca@idlrack:~$ sudo crontab -l -u www-data
 #MAILTO=nathaniel@theidealists.com
 
