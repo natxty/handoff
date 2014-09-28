@@ -4,7 +4,7 @@
 
 ### General Contents ###
 
-* General Overview and Notes
+* [General Overview and Notes](/general_overview.md)
 * Servers/Access/Locations
 * Code and Deployments
     * Version Control
@@ -30,7 +30,7 @@
     * Publishing an Opportunity
     * Pitching for an Opportunity
     * Talentlists
-    * Project Notifications Lifecycle
+    * [Project Notifications Lifecycle](opp_email_lifecycle.md)
     * Users
         * Applications for Membership
         * Portfolio Items
