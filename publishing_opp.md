@@ -4,8 +4,13 @@
 After a client submits an opportunity, the record is saved un an `unpublished` status and is only viewable by admins. After review (and possible editing) a _publisher_-enabled admin (`group_id = 4`) can publish from either the site admin or from the detail view itself. Normal admins can view, and edit, but not publish. Then:
 
 ### Cake Console ###  
-After some pre-processing, _publishing_ will execute a shell command for a cake console action, using ` $this->dispatchShell('email','sendOpportunity',array('id'=>strval(intval($id))));`
- 
+After some pre-processing, _publishing_ will execute a shell command for a cake console action, using 
+```php 
+$this->dispatchShell('email','sendOpportunity',array('id'=>strval(intval($id))));`
+```
+
+The `dispatchShell()` function is located in the `Controller/AppController.php` controller.
+
 This is a background process to query for users who fit the publishing criteria and send them individual emails through the `Postmark API`
 
 #### Logging the emails ####
