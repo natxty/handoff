@@ -20,6 +20,7 @@ A few different forms, with specific actions:
 * Images from other services (we've tapped into the Behance & Dribbble APIs)
     * using the Talent's unique URL (we parse for the handle/id) - we can import a batch of images from another service
     * These are then stored on _our_ S3 storage, as the first (_uploaded_) type listed above
++ `SocialServicesController.php` is where some workhorse functions are located for the above APIs.
 
 ## User Application Overview ##
 Much of this form is self-explanatory (e.g. Profile Image will upload a profile image, and CSS is used to create the circular border). 
@@ -46,6 +47,7 @@ There are a number of regex patterns also stored in the _skills_ database table 
 |  4 | \bas{2,}\b             |        1 |          0 |
 ```
 
+**Industry Experiences** are also a database-driven form field, checkboxes as custom buttons. Of note is that a user can add a custom Industry, via the _Other_ button and the form field that's made visible. These will be stored as well, but will not appear on the list. 
 
 #### Budget Slider ####
 A highly customized slider, most of the slider functions are located in the above-mentiond `profile.js` file. This is used to set the range of budgets for which a Talent will receive notifications.

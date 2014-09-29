@@ -19,7 +19,6 @@
         * Bootstrap Files on Subdomains
         * AssetCompress & S3
 * Important Code/Concepts
-    * Migrations
     * ACL
     * Password Hashing
     * Assets
@@ -32,11 +31,7 @@
     * Pitching for an Opportunity
     * Talentlists
     * [Project Notifications Lifecycle](opp_email_lifecycle.md)
-    * Users
-        * Applications for Membership
-        * Portfolio Items
-            - `SocialServicesController.php` 
-        * Editing
+    * [Users](users/users.md)
     * _more here_
     * Administration
         * Views
