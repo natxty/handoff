@@ -23,4 +23,9 @@
     * Surveys
 * Unused Code
     * Faq
-    *  
+
+## Most Important Links
+* [Dev/Ops Credentials Spreadsheet](https://docs.google.com/a/theidealists.com/spreadsheet/ccc?key=0AjVZk7pDeorYdGhVa0Z1R3pJX2lhM1VnZWlqYzhuN1E#gid=0)
+* [Server Credentials](https://docs.google.com/a/theidealists.com/spreadsheet/ccc?key=0AjVZk7pDeorYdElaaC1IeENRR080akQ4dUlFTUdoelE#gid=0)
+* [IdeaLists Bitbucket Repo](https://bitbucket.org/idldev/theidealists.com)
+* [IdeaLists JIRA Task Manager](https://theidealists.atlassian.net/)
