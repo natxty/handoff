@@ -19,33 +19,26 @@
         * Bootstrap Files on Subdomains
         * AssetCompress & S3
 * Important Code/Concepts
-    * ACL
-    * Password Hashing
-    * Assets
-    * Concierge Posts
-    * Project Calculator (SOW)
+    * [ACL](acl.md)
+    * [Password Hashing](password_hashing.md)
+    * [Assets](assets.md)
+    * [Concierge Posts](concierge.md)
+    * [Project Calculator (SOW)](sow/sow.md)
         * Calculator Data
         * Payment Pages & Artifacts
         * Drafts
-    * Publishing an Opportunity
-    * Pitching for an Opportunity
+        * Publishing an Opportunity
+        * Pitching for an Opportunity
     * Talentlists
     * [Project Notifications Lifecycle](opp_email_lifecycle.md)
     * [Users](users/users.md)
     * _more here_
-    * Administration
+    * [Administration](admin.md)
         * Views
-            * Dashboard
-            * Opportunities
-                - Overviews/Tables
-                - Single
-            * Users
-                - Overviews
-                - Individual
-            * Search
-                - DB query vs. Solr
-        * Template // datatables // javascript
-    * SHIFT
+        * Dashboard
+        * Datatables
+        * Search
+    * [SHIFT](shift.md)
 * Pipeline Components
     * PAMM (Project Agreements)
     * Matchmaking
