@@ -4,38 +4,19 @@
 *****
 
 * [General Overview and Notes](general_overview.md)
-* Servers/Access/Locations
+* [Servers/Access/Locations](servers.md)
 * [Code and Deployments](code_and_deployments.md)
-    * Version Control
-    * Migrations/Migration Management
-    * Bitbucket/Remote Repo
-    * Branching Scheme
-    * Blog
-    * Deployments & Config
-        * SSH Keys
-        * Fabric / Manual Deployment
-        * Bootstrap Files on Subdomains
-        * AssetCompress & S3
 * Important Code/Concepts
     * [ACL](acl.md)
     * [Password Hashing](password_hashing.md)
     * [Assets](assets.md)
     * [Concierge Posts](concierge.md)
     * [Project Calculator (SOW)](sow.md)
-        * Calculator Data
-        * Payment Pages & Artifacts
-        * Drafts
-        * Publishing an Opportunity
-        * Pitching for an Opportunity
     * [Talentlists](talentlists.md)
     * [Project Notifications Lifecycle](opp_email_lifecycle.md)
     * [Users](users.md)
     * _more here_
     * [Administration](admin.md)
-        * Views
-        * Dashboard
-        * Datatables
-        * Search
     * [SHIFT](shift.md)
 * Pipeline Components
     * PAMM (Project Agreements)

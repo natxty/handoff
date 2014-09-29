@@ -1,5 +1,16 @@
 # Code and Deployments
 
+## Code and Deployment Topics ##
+* Version Control
+* Migrations/Migration Management
+* Bitbucket/Remote Repo
+* Branching Scheme
+* Blog
+* Deployments & Config
+    * SSH Keys
+    * Fabric / Manual Deployment
+    * Bootstrap Files on Subdomains
+    * AssetCompress & S3
 
 ## Version Control
 We use _Git_ for version control, and most of our development and production code is on _Bitbucket_. QA code is based in a private _Github_ repo (because SauceLabs has a free layer linked with _GitHub_). Access passwords are located in the [Dev/Ops](https://docs.google.com/a/theidealists.com/spreadsheet/ccc?key=0AjVZk7pDeorYdGhVa0Z1R3pJX2lhM1VnZWlqYzhuN1E#gid=0) document. Both _Bitbucket_ and _GitHub_ have instructions on setting up your SSH keys.
