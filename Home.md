@@ -21,7 +21,7 @@
     * [Password Hashing](password_hashing.md)
     * [Assets](assets.md)
     * [Concierge Posts](concierge.md)
-    * [Project Calculator (SOW)](sow/sow.md)
+    * [Project Calculator (SOW)](sow.md)
         * Calculator Data
         * Payment Pages & Artifacts
         * Drafts
@@ -29,7 +29,7 @@
         * Pitching for an Opportunity
     * [Talentlists](talentlists.md)
     * [Project Notifications Lifecycle](opp_email_lifecycle.md)
-    * [Users](users/users.md)
+    * [Users](users.md)
     * _more here_
     * [Administration](admin.md)
         * Views

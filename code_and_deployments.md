@@ -66,3 +66,11 @@ The system knows which bootstrap-{server} to look for from an ENV variable set u
 As mentioned above, one step in deployment is compressing assets and uploading to S3. We use the [AssetCompress](https://github.com/markstory/asset_compress) plugin and some `Node.js` helpers to process the LESS files and combine JS and CSS files into minified, combined versions. 
 
 These, as well as the images, are then uploaded to S3 where they can be served via the CloudFront CDN. 
+
+### Deploying the Blog
+As mentioned, the blog is a separate repo. Deployments are not monitored by **Jenkins** nor automated with **Fabric**. In a very simple workflow, edits are made locally, and _SSH_ or _SCP_ is used to update the code/files on the server. 
+
+It is the working developer's responsibility to also push edits to the remote repo. 
+
+Automating this was on the long-term but low-priority TO-DO list. 
+
