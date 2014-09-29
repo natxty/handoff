@@ -1,13 +1,11 @@
-## The IdeaLists ##
+# The IdeaLists #
 
-[Test Page](test/path/test.md)
-
-### General Contents ###
+## General Contents
 *****
 
 * [General Overview and Notes](general_overview.md)
 * Servers/Access/Locations
-* Code and Deployments
+* [Code and Deployments](code_and_deployments.md)
     * Version Control
     * Migrations/Migration Management
     * Bitbucket/Remote Repo
@@ -29,7 +27,7 @@
         * Drafts
         * Publishing an Opportunity
         * Pitching for an Opportunity
-    * Talentlists
+    * [Talentlists](talentlists.md)
     * [Project Notifications Lifecycle](opp_email_lifecycle.md)
     * [Users](users/users.md)
     * _more here_
