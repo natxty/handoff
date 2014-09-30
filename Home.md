@@ -3,6 +3,7 @@
 ## General Contents
 
 * [General Overview and Notes](general_overview.md)
+    * [Local Setyp Notes](local_setup.md)
 * [Servers/Access/Locations](servers.md)
 * [Code and Deployments](code_and_deployments.md)
 * Important Code/Concepts
@@ -20,6 +21,7 @@
 * Pipeline Components
     * PAMM (Project Agreements)
     * Matchmaking
+        * [Python/NLTK on servers](installing_nltk.md)
     * Surveys
 * Unused Code
     * [Faq](faq.md)
