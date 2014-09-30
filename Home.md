@@ -11,18 +11,18 @@
     * [Assets](assets.md)
     * [Concierge Posts](concierge.md)
     * [Project Calculator (SOW)](sow.md)
+    * [Pitching for an Opportunity](pitching_opp.md)
     * [Talentlists](talentlists.md)
     * [Project Notifications Lifecycle](opp_email_lifecycle.md)
     * [Users](users.md)
-    * _more here_
-    * [Administration](admin.md)
+    * [Admin Pages](admin.md)
     * [SHIFT](shift.md)
 * Pipeline Components
     * PAMM (Project Agreements)
     * Matchmaking
     * Surveys
 * Unused Code
-    * Faq
+    * [Faq](faq.md)
 
 ## Most Important Links
 * [Dev/Ops Credentials Spreadsheet](https://docs.google.com/a/theidealists.com/spreadsheet/ccc?key=0AjVZk7pDeorYdGhVa0Z1R3pJX2lhM1VnZWlqYzhuN1E#gid=0)

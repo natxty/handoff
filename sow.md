@@ -1,11 +1,11 @@
 # Project Calculator / SOW #
 
 ## SOW Topics ##
-* Calculator Data
+* Base Structure
+* Data
 * Payment Pages & Artifacts
 * Drafts
 * Publishing an Opportunity
-* Pitching for an Opportunity
 
 Tied to the `Opportunity` Model/Controller, the interactive form was originally called a _Statement Of Work Calculator_, or _SOW_ for short. The name has stuck internally, even though the client-facing form now reads "Project Calculator". These titles will be used interchangeably.
 
