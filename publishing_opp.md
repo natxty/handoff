@@ -9,7 +9,7 @@ After some pre-processing, _publishing_ will execute a shell command for a cake 
 $this->dispatchShell('email','sendOpportunity',array('id'=>strval(intval($id))));`
 ```
 
-The `dispatchShell()` function is located in the `Controller/AppController.php` controller.
+The `dispatchShell()` function is located in the `Controller/AppController.php` controller. This is a wrapper function to execute a shell command via `exec()`.
 
 This is a background process to query for users who fit the publishing criteria and send them individual emails through the `Postmark API`
 
