@@ -39,6 +39,7 @@ Runs the following domains:
 * **ops.theidealists.com**: _phpMyAdmin_ instance, tied to a clone of the production database, refreshed daily. So the Operations crew could run simple SQL searches on the data.
 * **saleucami.theidealists.com** (dev site, tied to `saleucami` branch)
 * **staging.theidealists.com** (final QA site, where `release/*` branches are deployed)
+* **virtualprod.theidealists.com**: set up for some major QA that needed live data (e.g. new profile layout, live payment processing data). Emailing is disabled, and not all user images are updated.
 
 #### Tech Stack Notes
 * Java, Tomcat, Solr installed here. Tomcat found at, e.g [dev.theidealists.com:9090/manager/html](http://dev.theidealists.com:9090/manager/html)
