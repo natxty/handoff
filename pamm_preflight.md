@@ -16,7 +16,7 @@
 
 **Important Code Prep**
 
-* Revert `develop` branch to pre-Matchmaking (`hoth`) integratin
+* Revert `develop` branch to pre-Matchmaking (`hoth`) integratoin
 * merge `tatooine` into `develop`
 * regression testing/etc.
 
