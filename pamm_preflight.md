@@ -2,6 +2,7 @@
 ## Requirements/Tasks for Launch
 
 **Critical Fixes/Tests**
+
 * FIX: Manually Adding Past Dates in Milestone Error
 * FIX: Messaging in Final Approved Email
 * FIX: Prevent user from double-submitting Payment
@@ -11,6 +12,7 @@
     * Catch any unusual errors
 
 **Important Code Prep**
+
 * Revert `develop` branch to pre-Matchmaking (`hoth`) integratin
 * merge `tatooine` into `develop`
 * regression testing/etc.
