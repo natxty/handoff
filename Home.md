@@ -20,6 +20,7 @@
     * [SHIFT](shift.md)
 * Pipeline Components
     * PAMM (Project Agreements)
+        - [PAMM Preflight Info](pamm_preflight.md)
     * Matchmaking
         * [Python/NLTK on servers](installing_nltk.md)
     * Surveys
