@@ -1,6 +1,9 @@
 # PAMM Preflight
 ## Requirements/Tasks for Launch
 
+[JIRA Board Link](https://theidealists.atlassian.net/secure/RapidBoard.jspa?rapidView=1&selectedIssue=NEW-2835&sprint=69) to list of tasks, from UI edits to _Critical_ ones
+
+
 **Critical Fixes/Tests**
 
 * FIX: Manually Adding Past Dates in Milestone Error
