@@ -20,4 +20,18 @@
 * merge `tatooine` into `develop`
 * regression testing/etc.
 
+**Final Steps**
+
+* after regression/fixing:
+* create new release branch (`release/3.6`)
+* merge `develop` -> `release/3.6`
+* push `release/3.6` to remote repo
+* (Jenkins will auto-deploy to staging)
+* _Final Visual Check_
+* merge `release/3/6` -> `master`
+* push `master` to remote repo
+* (Jenkins will auto-deploy to production)
+
+
+
 
