@@ -19,7 +19,7 @@
     * [Admin Pages](admin.md)
     * [SHIFT](shift.md)
 * Pipeline Components
-    * PAMM (Project Agreements)
+    * [PAMM (Project Agreements)](pamm.md)
         - [PAMM Preflight Info](pamm_preflight.md)
     * Matchmaking
         * [Python/NLTK on servers](installing_nltk.md)
