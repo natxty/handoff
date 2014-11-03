@@ -21,7 +21,7 @@
 * Pipeline Components
     * [PAMM (Project Agreements)](pamm.md)
         - [PAMM Preflight Info](pamm_preflight.md)
-    * Matchmaking
+    * [Matchmaking](matchamaking.md)
         * [Python/NLTK on servers](installing_nltk.md)
     * Surveys
 * Unused Code
